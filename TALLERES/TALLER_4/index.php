@@ -83,7 +83,7 @@ $evaluaciones = $miEmpresa->evaluarEmpleados();
     </style>
 </head>
 <body>
-    <h1>📊 Sistema de Gestión de Empresa</h1>
+    <h1>Sistema de Gestión de Empresa</h1>
 
     <!-- Lista de empleados -->
     <div class="card">
